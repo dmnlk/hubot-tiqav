@@ -1,0 +1,22 @@
+{
+  "name": "hubot-tiqav",
+  "version": "1.0.0",
+  "description": "Hubot-scripts returns image from tiqav",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmnlk/hubot-tiqav"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "dmnlk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmnlk/hubot-tiqav/issues"
+  },
+  "homepage": "https://github.com/dmnlk/hubot-tiqav"
+}
